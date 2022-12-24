@@ -13,6 +13,7 @@ The program has been seperated into 3 stages. Note that at the end of the first 
 - Yelp Datasets
     - The size of Yelp datasets is too large which exceed the GitHub maximum upload file size. So to be able to run the code, it is required to download the [datasets from Yelp](https://www.yelp.com/dataset).
     - In this program we only need business.json and review.json.
+    - After you have downloaded the datasets, please put the file into the Datasets folder.
     
 ### Instructions
 Below is the order of codes to be run.
