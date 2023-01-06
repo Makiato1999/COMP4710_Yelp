@@ -1,6 +1,8 @@
-# TextMining_Yelp
-Yelp is a platform that provides consumers to discover, connect and transact with local businesses, which allows consumers to make reviews, reservations, appointments, and purchases on businesses. <br>
-In the age of big data, data gives us a clear vision and direction that benefits both consumers and businesses. Yelp is a platform that provides consumers to discover, connect and transact with local businesses, which allows consumers to make reviews, reservations, appointments, and purchases on businesses. 
+# Text Mining: Sentiment Analysis and Recommendation System on Yelp Reviews
+Yelp is a platform that provides consumers to discover, connect and transact with local businesses, which allows consumers to make reviews, reservations, appointments, and purchases on businesses. In real life, other people's opinions are crucial in future decisions. Besides, in the commercial field, people's reviews can help merchants know customers' preferences. Online review platforms and merchants can get information from customers' reviews to make personalized recommendations for other customers, from which customers can also benefit. This project uses multiple text data mining methods to discover the potential information, analyze the text sentiment and construct a recommendation system. We used the Yelp review database to analyze the sentiment inside reviews and found patterns to provide personalized customer recommendations.
+<br><br>
+This is a group project completed by , We implemented the K-mean clustering algorithm to cluster business locations, used natural language processing techniques to clean the data, vectorized the text of the review by word counts & TF-IDF, visualized the word frequency, found associate words in context by Word2Vec, searched the optimal hyper-parameters and classification model by k-fold cross validation, found the most suitable sentiment analysis classifier by comparing the results of logistic regression and support vector machine, extracted principal components of business by non-negative matrix factorization and retrieved similar business by k-mean clustering.
+
 
 ---
 
